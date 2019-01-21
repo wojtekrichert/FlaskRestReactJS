@@ -1,0 +1,8 @@
+{
+  "short_name": "Template",
+  "name": "Flask React Rest template",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
